@@ -1,0 +1,8 @@
+email: Rahul@gmail.com
+password: Rahul123!@#
+
+email: oky@gmail.com
+password: React123!@#
+
+email: newUser@gmail.com
+password: New123!@#
